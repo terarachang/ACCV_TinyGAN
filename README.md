@@ -14,7 +14,7 @@ This repository contains the official PyTorch implementation of the following pa
 
 ### Training
 ```bash
-$ bash run.sh
+$ bash train.sh
 ```
 
 ### Evaluation
