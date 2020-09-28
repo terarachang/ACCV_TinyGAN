@@ -6,7 +6,7 @@ BigGAN; Knowledge Distillation; Black-Box; Fast Training; 16x compression
 
 This repository contains the official PyTorch implementation of the following paper:
 
-> **TinyGAN: Distilling BigGAN for Conditional Image Generation**<br>
+> **TinyGAN: Distilling BigGAN for Conditional Image Generation (ACCV 2020)**<br>
 > Ting-Yun Chang, Chi-Jen Lu<br>
 
 >
@@ -22,3 +22,7 @@ $ bash train.sh
 $ bash eval.sh
 ```
 
+---
+![Fig](https://terarachang.github.io/files/TinyGAN_flow.png)
+---
+![Fig](https://terarachang.github.io/files/TinyGAN_demo.png)
