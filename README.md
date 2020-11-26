@@ -30,3 +30,17 @@ $ bash eval.sh
 ![Fig](https://terarachang.github.io/files/TinyGAN_flow.png)
 ---
 ![Fig](https://terarachang.github.io/files/TinyGAN_demo.png)
+
+
+## Citation
+
+```
+@InProceedings{Chang_2020_ACCV,
+    author    = {Chang, Ting-Yun and Lu, Chi-Jen},
+    title     = {TinyGAN: Distilling BigGAN for Conditional Image Generation},
+    booktitle = {Proceedings of the Asian Conference on Computer Vision (ACCV)},
+    month     = {November},
+    year      = {2020}
+}
+
+```
