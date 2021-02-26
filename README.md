@@ -27,9 +27,9 @@ $ bash eval.sh
 ```
 
 ---
-![Fig](https://terarachang.github.io/files/TinyGAN_flow.png)
+![Fig](https://github.com/terarachang/ACCV_TinyGAN/blob/master/misc/TinyGAN_flow.png)
 ---
-![Fig](https://terarachang.github.io/files/TinyGAN_demo.png)
+![Fig](https://github.com/terarachang/ACCV_TinyGAN/blob/master/misc/TinyGAN_demo.png)
 
 
 ## Citation
